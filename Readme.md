@@ -1,0 +1,1 @@
+This is my learning progess of redis using Docker and various small projects. I will be updating it with new projects along side 
