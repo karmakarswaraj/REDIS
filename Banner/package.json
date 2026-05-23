@@ -1,0 +1,17 @@
+{
+    "name": "Banner",
+    "version": "1.0.0",
+    "description": "A local setup for development",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "node src/index.js"
+    },  
+    "author": "SWARAJ",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "ioredis": "5.10.1"
+    }
+    
+}
